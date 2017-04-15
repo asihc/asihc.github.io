@@ -3,10 +3,8 @@ img{
  width: 300px;
  height: 300px;
 }
-.img{
- position:absolute;
- top:0;
- bottom:0;
- margin:auto;
+div{
+ display: table-cell;
+	vertical-align: middle;
+	text-align: center;
 }
-
