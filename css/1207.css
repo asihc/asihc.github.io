@@ -2,8 +2,6 @@ img{
  display:inline-block;
  width: 300px;
  height: 300px;
+ margin-right:auto;
+ margin-left:auto;
 }
-div.img{
- text-align:center;
-}
- 
