@@ -1,5 +1,5 @@
 img{
- display:table-cell;
+ display:inline-block;
  width: 300px;
  height: 300px;
 	vertical-align: middle;
