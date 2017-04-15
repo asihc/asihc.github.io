@@ -1,11 +1,14 @@
 
-.map{
-  width:600px;
-height:600px;
+map{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  
 }
   
- .address{
-  width:600px;
-height:600px;
+ address{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
 }
   
