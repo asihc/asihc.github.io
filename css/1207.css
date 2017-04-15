@@ -2,6 +2,8 @@ img{
  display:inline-block;
  width: 300px;
  height: 300px;
+}
+div{
  top:0;
  bottom:0;
  margin:auto;
