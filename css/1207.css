@@ -1,7 +1,5 @@
-#picture {
- display: block;
-width:800px;
-margin-right: auto;
-margin-left: auto;
+.picture image{
+ text-align:center;
+ 
 }
  
